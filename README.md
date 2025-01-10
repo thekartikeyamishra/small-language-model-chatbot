@@ -41,7 +41,7 @@ cd small-language-model-chatbot
 ### 2. Install Required Libraries
 Make sure to install the necessary Python libraries:
 ```bash
-pip install transformers matplotlib ipywidgets
+pip install transformers ipywidgets
 ```
 
 ---
